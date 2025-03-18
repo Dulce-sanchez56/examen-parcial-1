@@ -30,3 +30,14 @@ c) Guarde, haga un commit y suba los cambios a GitHub
 a) Edite dos de los cuatro archivos de su carpeta
 b) Abra su archivo README para que agregue las instrucciones ejecutadas hasta el momento, incluidas las instrucciones para la linea siguiente.
 C) Guarde, los archivos y recupere los cambios as su carpeta local.
+
+7) Creación y uso de ramas. 
+git branch para ver las ramas que existen
+a) Creen una nueva rama para agregar una funcionalidad, la cual debe llamarse rama-1
+git branch + rama-1
+b) Cree dos archivos nuevos.
+c) En la rama-1, agregue los dos archivos recien creados
+d) Confirmen los cambios y subanlos a GitHub
+e) Regrese a la rama main y fusione rama-1 con ella
+f) Confirme que la fusion fue realizada exitosamente.
+g) Asegurese que README tenga todas las instrucciones realizadas, guardelo y suba todos los cambios al repositorio de GitHub
