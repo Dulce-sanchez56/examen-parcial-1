@@ -25,3 +25,8 @@ Para este caso se usan los comandos git pull
 a) Edite dos de los cuatro archivos de su carpeta 
 b) Abra su archivo README para que agregue las instrucciones ejecutadas hasta el momento
 c) Guarde, haga un commit y suba los cambios a GitHub
+
+6) Control y seguimiento local
+a) Edite dos de los cuatro archivos de su carpeta
+b) Abra su archivo README para que agregue las instrucciones ejecutadas hasta el momento, incluidas las instrucciones para la linea siguiente.
+C) Guarde, los archivos y recupere los cambios as su carpeta local.
