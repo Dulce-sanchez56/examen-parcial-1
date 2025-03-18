@@ -39,5 +39,8 @@ b) Cree dos archivos nuevos.
 c) En la rama-1, agregue los dos archivos recien creados
 d) Confirmen los cambios y subanlos a GitHub
 e) Regrese a la rama main y fusione rama-1 con ella
+git checkout para cambiar las ramas
 f) Confirme que la fusion fue realizada exitosamente.
+git marge para fusionar las ramas
 g) Asegurese que README tenga todas las instrucciones realizadas, guardelo y suba todos los cambios al repositorio de GitHub
+git push para subir los cambios
